@@ -1,2 +1,2 @@
-# SVM-and-Navies-bayes
-SVM  and Navies bayes
+# SVM-and-Navie-bayes
+SVM  and Navie bayes
